@@ -19,7 +19,7 @@ I'm passionate about programming. I enjoy writing code it is like a hobby to me.
 
 ### GitHub Stats:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hashir-Akbar?cardType=octocat&theme=midnight-purple&preferLogin=false&Border=4140DD)](https://git.io/awesome-stats-card)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hashir-Akbar?cardType=octocat&theme=midnight-purple&preferLogin=false&Border=4140DD)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Akbar&layout=compact&theme=midnight-purple)](https://github.com/Hashir-Akbar)
 
