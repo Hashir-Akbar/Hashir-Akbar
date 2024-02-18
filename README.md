@@ -3,7 +3,7 @@
 # Hi 👋, I'm Hashir Akbar
 
 
-I'm passionate about programming. I enjoy to write code it is like hobby to me. I am always learning new things everyday now it seems to become an addiction 👀. I always thrive to write better code. I love to solve problems, Bugs fixing for most of people is like headache but for me that is a challenge to improve myself So, I like to solve programming problems on different websites like hacker rank and leet code. Nowdays, I am looking for a team/company/agency to work with that will help me improve myself by collaborating with senior members of my field. I am always ready to help my juniors. I am freindly you can contact me anytime for anything I will respond to you. 
+I'm passionate about programming. I enjoy writing code it is like a hobby to me. I am always learning new things every now it seems to become an addiction 👀. I always strive to write better code. I love to solve problems debugging is a challenge that I enjoy 😁, as it helps me improve myself. I enjoy solving programming problems on websites like HackerRank and LeetCode. Currently, I am looking for a team, company, or agency to work with that will help me improve myself by collaborating with senior members of my field. I am always willing to help my juniors 🤝, and I am a friendly person. You can contact me anytime for anything, and I will be happy to respond to you.
 
 
 <!--
