@@ -11,8 +11,10 @@ I'm passionate about programming. I enjoy writing code it is like a hobby to me.
 
 ### Let's Connect!
 
-📫 Find me on: <a href=”https://www.linkedin.com/in/dev-hashir-akbar/">
-<img align=”left” src=”https://raw.githubusercontent.com/Hashir-Akbar/Hashir-Akbar/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/>
+📫 Find me on: 
+
+<a href="https://www.linkedin.com/in/dev-hashir-akbar/">
+<img  src="https://raw.githubusercontent.com/Hashir-Akbar/Hashir-Akbar/main/images/linkedin.svg" alt="icon | LinkedIn" width="30px"/>
 </a>
 
 ### GitHub Stats:
