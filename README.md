@@ -1,6 +1,6 @@
-##### Welcome to my GitHub profile! 🚀
+#### Welcome to my GitHub profile! 🚀
 # Hi 👋, I'm Hashir Akbar
-#### A person who enjoys Programming ✨ 
+### A person who enjoys Programming ✨ 
 
 <!--
 
