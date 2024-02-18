@@ -14,11 +14,13 @@ I'm passionate about programming. I enjoy writing code it is like a hobby to me.
 📫 Find me on:
 
 <a href="https://www.linkedin.com/in/dev-hashir-akbar/">
-<img  src="https://raw.githubusercontent.com/Hashir-Akbar/Hashir-Akbar/main/images/linkedin.svg" alt="icon | LinkedIn" width="30px"/>
+<img src="https://raw.githubusercontent.com/Hashir-Akbar/Hashir-Akbar/main/images/linkedin.svg" alt="icon | LinkedIn" width="30px"/>
 </a>
-<a href='mailto:hashirbusinessinfo@gmail.com'>
-<img  src="https://raw.githubusercontent.com/Hashir-Akbar/Hashir-Akbar/main/images/gmail.svg" alt="icon | LinkedIn" width="30px"/>
 
+<a href='mailto:hashirbusinessinfo@gmail.com'>
+<img src="https://raw.githubusercontent.com/Hashir-Akbar/Hashir-Akbar/main/images/gmail.svg" alt="gmail" width="30px"/>
+</a>
+  
 ### GitHub Stats:
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hashir-Akbar?cardType=octocat&theme=midnight-purple&preferLogin=false&Border=4140DD)
