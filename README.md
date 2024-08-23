@@ -2,12 +2,12 @@
 
 # Hi 👋, I'm Hashir Akbar
 
-I'm passionate about programming. I enjoy writing code it is like a hobby to me. I am always learning new things every day now it seems to become an addiction 👀. I always strive to write better code. I love to solve problems debugging is a challenge that I enjoy 😁, as it helps me improve myself. I enjoy solving programming problems on websites like HackerRank and LeetCode. Currently, I am looking for a team, company, or agency to work with that will help me improve myself by collaborating with senior members of my field. I am always willing to help my juniors 🤝, and I am a friendly person. You can contact me anytime for anything, and I will be happy to respond to you.
+I'm passionate about programming. I enjoy writing code. I am always learning new things every day it is my addiction. I remain alone most of times, that's why my time is mostly spent between my code and me. Whenever I get an idea I try to convert it into code. I am not best but I will strive to become best until the very end.
 
 - 🌱 I’m currently learning Backend Development.
-- 💼 I’m looking to collaborate with companies/agencies.
+- 💼 I’m looking to collaborate with companies/agencies/freelancers.
 - 😃 Pronouns: He/Him
-- ⚡ Fun Fact: I studied medical subjects until high school
+- ⚡ Fun Fact: I dislike nothing
 
 ### Let's Connect!
 
@@ -24,7 +24,7 @@ I'm passionate about programming. I enjoy writing code it is like a hobby to me.
 ### GitHub Stats:
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hashir-Akbar?cardType=octocat&theme=midnight-purple&preferLogin=false&Border=4140DD)
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Akbar&layout=compact&theme=midnight-purple)](https://github.com/Hashir-Akbar)
 
 <h3 align="left">Support:</h3>
