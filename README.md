@@ -19,8 +19,6 @@ I'm passionate about programming. I enjoy writing code. I am always learning new
 
 ### Let's Connect!
 
-📫 Find me on:
-
 <a href='mailto:hashirbusinessinfo@gmail.com'>
 <img src="https://raw.githubusercontent.com/Hashir-Akbar/Hashir-Akbar/main/images/gmail.svg" alt="gmail" width="30px"/>
 </a>
