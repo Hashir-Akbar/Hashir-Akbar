@@ -2,12 +2,12 @@
 
 # Hi 👋, I'm Hashir Akbar
 
-I'm passionate about programming. I enjoy writing code. I am always learning new things every day it is my addiction. I remain alone most of times, that's why my time is mostly spent between my code and me. Whenever I get an idea I try to convert it into code. I am not best but I will strive to become best until the very end.
+I'm passionate about programming. I enjoy writing code. I am always learning new things every day it is my addiction. My time is mostly spent between my code and me. Whenever I get an idea I try to convert it into code. I am not best but I always strive to become best until the very end.
 
 - 🌱 I’m currently learning Backend Development.
 - 💼 I’m looking to collaborate with companies/agencies/freelancers.
 - 😃 Pronouns: He/Him
-- ⚡ Fun Fact: I dislike nothing
+- ⚡ Fun Fact: I love cats
 
 
 ### GitHub Stats:
