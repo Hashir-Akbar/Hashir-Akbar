@@ -11,7 +11,7 @@ I'm passionate about programming. I enjoy writing code. I am always learning new
 
 
 ### GitHub Stats:
-<br/>
+
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hashir-Akbar?cardType=octocat&theme=midnight-purple&preferLogin=false&Border=4140DD) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Akbar&layout=compact&theme=midnight-purple)](https://github.com/Hashir-Akbar)
 
 
