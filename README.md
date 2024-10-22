@@ -14,13 +14,12 @@ I'm passionate about programming. I enjoy writing code. I am always learning new
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hashir-Akbar?cardType=octocat&theme=midnight-purple&preferLogin=false&Border=4140DD) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Akbar&layout=compact&theme=midnight-purple)](https://github.com/Hashir-Akbar)
 
-<hr/>
+
 <br/>
 
-<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashir-Akbar&theme=dark&count_private=true&hide_border=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 
-<br/>
-<hr/>
+
 
 <h3 align="left">Socials:</h3>
