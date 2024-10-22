@@ -15,5 +15,4 @@ I'm passionate about programming. I enjoy writing code. I am always learning new
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hashir-Akbar?cardType=octocat&theme=midnight-purple&preferLogin=false&Border=4140DD) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Akbar&layout=compact&theme=midnight-purple)](https://github.com/Hashir-Akbar)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hashirakbar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="hashirakbar" /></a></p><br><br>
+<h3 align="left">Socials:</h3>
