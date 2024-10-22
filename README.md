@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hashir Akbar
 
-I'm passionate about programming. I enjoy writing code. I am always learning new things every day. My time is mostly spent between my code and me. Whenever I get an idea I try to convert it into code. I am not best but I always strive to become best until the very end.
+I am a passionate programmer who thrives on turning ideas into code. I enjoy diving deep into complex problems and constantly learning new technologies and techniques. Every day presents an opportunity for growth, and I eagerly embrace it. While I don't claim to be the best, my commitment to continuous improvement drives me to push my limits and strive for excellence in every project I undertake. My journey is one of relentless learning, persistence, and a deep love for coding.
 
 - 🌱 I’m currently learning Backend Development.
 - 💼 I’m looking to collaborate with companies/agencies/freelancers.
