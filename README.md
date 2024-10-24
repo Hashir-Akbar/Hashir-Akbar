@@ -7,7 +7,7 @@ I am a passionate programmer who thrives on turning ideas into code. I enjoy div
 - 🌱 I’m currently learning Backend Development.
 - 💼 I’m looking to collaborate with companies/agencies/freelancers.
 - 😃 Pronouns: He/Him
-- ⚡ Fun Fact: I love cats
+- ⚡ Fun Fact: No fun, only code
 
 
 ### GitHub Stats:
