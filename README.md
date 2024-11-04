@@ -20,5 +20,5 @@ I am a passionate programmer who thrives on turning ideas into code. I enjoy div
 </a>
 
 <a href="https://github.com/Hashir-Akbar/github-readme-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashir-Akbar&" alt="image" width = "420" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashir-Akbar&" alt="image" width = "520" />
 </a>
