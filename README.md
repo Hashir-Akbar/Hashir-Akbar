@@ -12,5 +12,5 @@ I am a passionate programmer who thrives on turning ideas into code. I enjoy div
 
 ### GitHub Stats:
 
-[![Hashir GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashir-Akbar)](https://github.com/Hashir-Akbar/github-readme-stats)
+[![Hashir GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashir-Akbar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Hashir-Akbar/github-readme-stats)
 
