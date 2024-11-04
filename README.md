@@ -13,7 +13,7 @@ I am a passionate programmer who thrives on turning ideas into code. I enjoy div
 ### GitHub Stats:
 
 <a href="https://github.com/Hashir-Akbar/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hashir-Akbar" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hashir-Akbar&rank_icon=github" />
 </a>
 <a href="https://github.com/Hashir-Akbar/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hashir-Akbar&layout=compact&langs_count=8&card_width=320" />
