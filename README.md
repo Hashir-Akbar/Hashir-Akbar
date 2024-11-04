@@ -19,5 +19,5 @@ I am a passionate programmer who thrives on turning ideas into code. I enjoy div
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hashir-Akbar&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt="image" width = "320" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt="image" width = "100%" />
 
