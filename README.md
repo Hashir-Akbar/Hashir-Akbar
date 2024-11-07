@@ -6,7 +6,7 @@ I am a passionate programmer who thrives on turning ideas into code. I enjoy div
 
 - 🔭 Perfection isn't the goal but being better is.
 - 🌱 I’m currently learning some nasty stuff.
-- 💼 I’m looking to collaborate with companies/agencies/freelancers.
+- 🤝 I’m looking for help with file management in my computer.
 - ✨ Living inside the terminal.
 - ⚡ Fun Fact: no fun, only code
 - 📧 Keep moving and you'll find a way.
