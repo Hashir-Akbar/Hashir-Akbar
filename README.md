@@ -10,5 +10,5 @@
 
 ### GitHub Stats:
 
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hashir-Akbar&rank_icon=github" /></span>
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hashir-Akbar&layout=compact&langs_count=8&card_width=300" /></span>
+<a href="#"><span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hashir-Akbar&rank_icon=github" /></span></a>
+<a href="#"><span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hashir-Akbar&layout=compact&langs_count=8&card_width=300" /></span></a>
