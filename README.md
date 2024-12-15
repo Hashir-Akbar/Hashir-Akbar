@@ -1,12 +1,8 @@
-### Welcome to my GitHub profile! 🚀
-
-# Hi 👋, I'm Hashir Akbar
-
-I am a passionate programmer who thrives on turning ideas into code. I enjoy diving deep into complex problems and constantly learning new technologies and techniques. Every day presents an opportunity for growth, and I eagerly embrace it. While I don't claim to be the best, my commitment to continuous improvement drives me to push my limits and strive for excellence in every project I undertake. My journey is one of relentless learning, persistence, and a deep love for coding.
+# Hey 👋
 
 - 🔭 Perfection isn't the goal but being better is.
 - 🌱 I’m currently learning some nasty stuff.
-- 🤝 I’m looking for help with file management in my computer.
+- 🤝 I’m looking for help with file management on my computer.
 - ✨ Living inside the terminal.
 - ⚡ Fun Fact: no fun, only code
 - 📧 Keep moving and you'll find a way.
