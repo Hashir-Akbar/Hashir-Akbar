@@ -1,11 +1,12 @@
 # Hey 👋
 
-- 🔭 Perfection isn't the goal but being better is.
-- 🌱 I’m currently learning some nasty stuff.
-- 🤝 I’m looking for help with file management on my computer.
-- ✨ Living inside the terminal.
-- ⚡ Fun Fact: no fun, only code
-- 📧 Keep moving and you'll find a way.
+- 💡 An insatiable curiosity to grow and learn. 
+- 🔭 Perfection isn’t the destination; growth is.
+- 🌱 Currently exploring some nasty stuff.
+- 😜 I’m looking for help with file management on my computer.
+- ✨ At home in the terminal.
+- ⚡ Fun Fact: Who needs fun when there’s code?
+- 📧 Stay in motion, and you’ll discover the way.
 
 ### GitHub Stats:
 
